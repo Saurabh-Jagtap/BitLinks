@@ -28,3 +28,10 @@ It allows users to shorten long URLs into easy-to-share links, making them more 
    ```bash
    git clone https://github.com/yourusername/bitlinks.git
    cd bitlinks
+   npm install
+DATABASE_URL=mongodb://localhost:27017/
+BASE_URL=http://localhost:3000
+npm run dev
+http://localhost:3000
+
+
