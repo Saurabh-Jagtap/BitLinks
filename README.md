@@ -6,8 +6,7 @@ It allows users to shorten long URLs into easy-to-share links, making them more 
 ---
 
 ## 🚀 Features
-- ✨ **Shorten long URLs** into compact links  
-- 📊 **Click tracking** (optional if implemented)  
+- ✨ **Shorten long URLs** into compact links   
 - 📱 **Responsive design** for mobile and desktop  
 - 🔒 Secure URL handling  
 - ⚡ Built with **Next.js** for speed and performance  
@@ -17,8 +16,7 @@ It allows users to shorten long URLs into easy-to-share links, making them more 
 ## 🛠️ Tech Stack
 - **Frontend:** Next.js, React, Tailwind CSS  
 - **Backend:** Next.js API Routes (or your chosen backend service)  
-- **Database:** (e.g., MongoDB / Firebase / Supabase — replace with yours)  
-- **Hosting:** Vercel  
+- **Database:** MongoDB   
 
 ---
 
